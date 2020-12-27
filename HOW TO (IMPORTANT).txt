@@ -1,0 +1,7 @@
+-important-
+1. Install Minecraft with installer
+2. Start the application.
+3. Go to: https://mcleaks.net/
+4. Create an account (Minecraft)
+5. Log in with it on the app.
+6. Enjoy!
